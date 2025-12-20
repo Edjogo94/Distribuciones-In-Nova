@@ -214,7 +214,7 @@ const App: React.FC = () => {
                 <Truck size={12} fill="currentColor" /> Envíos Nacionales
               </span>
               <h2 className="text-4xl md:text-6xl font-black text-white mb-6 leading-tight tracking-tight">
-                Proveedores <br/>
+                Distribuciones <br/>
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-600">In-Nova</span>
               </h2>
               <p className="text-slate-400 text-lg mb-8 font-light leading-relaxed">
